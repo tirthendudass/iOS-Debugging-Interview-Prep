@@ -17,7 +17,7 @@
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?style=for-the-badge&logo=swift)
 ![iOS](https://img.shields.io/badge/iOS-UIKit%20%7C%20SwiftUI-blue?style=for-the-badge&logo=apple)
 ![Debugging](https://img.shields.io/badge/Focus-Debugging-red?style=for-the-badge)
-![Problems](https://img.shields.io/badge/Problems-20%2B-success?style=for-the-badge)
+![Problems](https://img.shields.io/badge/Problems-5%2B-success?style=for-the-badge)
 ![Difficulty](https://img.shields.io/badge/Level-Easy%20to%20Hard-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=for-the-badge)
